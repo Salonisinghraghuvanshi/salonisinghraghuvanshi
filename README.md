@@ -1,7 +1,7 @@
 [![MasterHead](https://global-uploads.webflow.com/59e16042ec229e00016d3a66/5dfbd74fe0b6d7150b256a28_digital-marketing-hero.gif)]
 <h1 align="center">Hi 👋, I'm Saloni Singh Raghuvanshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding"width="400" src="https://arieljakubowski.medium.com/i-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salonisinghraghuvanshi&label=Profile%20views&color=0e75b6&style=flat" alt="salonisinghraghuvanshi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/salonisinghrag1" target="blank"><img src="https://img.shields.io/twitter/follow/salonisinghrag1?logo=twitter&style=for-the-badge" alt="salonisinghrag1" /></a> </p>
